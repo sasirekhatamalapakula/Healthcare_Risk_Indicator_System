@@ -113,3 +113,16 @@ Calling `GET /api/analytics/report` generates these files in the current working
 - Do not expose it to the internet as-is. A real deployment would require security review, authentication, authorization, encryption, audit controls, and privacy/legal review.
 - The arbitrary demo score and threshold have no medical interpretation.
 - Counts and charts describe only the sample data; they are not representative of a real hospital.
+## Project Screenshots
+
+### Dashboard
+![Dashboard](01_dashboard.png)
+
+### Patient ID
+![Patient ID](02_patient_id.png)
+
+### Analytics
+![Analytics](03_analytics.png)
+
+### Graph
+![Graph](04_graph.png)
